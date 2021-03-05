@@ -1,1 +1,3 @@
-# nseredyuk
+---
+permalink: /index.html
+---
